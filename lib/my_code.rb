@@ -1,1 +1,3 @@
-map_to_navigate(source_array)
+def map_to_navigate(source_array)
+    source_array.map
+end
